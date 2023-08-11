@@ -1,7 +1,7 @@
 
 # Awesome-Data-Knowledge-Distillation-for-Federated-Learning
 
-The deployment of federated learning in real-world systems focuses on improving efficiency, synchronization, harmonizing client heterogeneity, etc. Data Distillation and Knowledge Distillation have emerged as a practical solution for FL problems. 
+The deployment of federated learning in real-world systems focuses on improving efficiency, synchronization, and harmonizing client heterogeneity. Data Distillation and Knowledge Distillation have emerged as a practical solution for these FL problems. 
 
 # Table of Contents
 
